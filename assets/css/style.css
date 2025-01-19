@@ -19,4 +19,14 @@
         background-color: rgba(196, 188, 188, 0.185);
 
      }
+
 }
+
+table.highlight > tbody > tr:hover {
+   background-color: #bbdefb;
+ }
+ .container{
+   width: 100%;
+ }
+
+ 
